@@ -1,14 +1,14 @@
 //Created by Danny 
 //Dont clone cause if i catch you i will flag you immediately 
-//contact me wa.me/255697608274
+//contact me wa.me/2347038517111
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "255697608274"
-global.ownername = "𝒟𝒶𝓃𝓃𝓎"
-global.ownernumber = '255697608274'  //owner number 2
+global.ownernomer = "2347038517111"
+global.ownername = "SUNG"
+global.ownernumber = '2347038517111'  //owner number 2
 //put your phone number above
 //let the owner as Danny or you can just put your name
 
@@ -17,11 +17,11 @@ global.prefa = [',','!','.','#','&']
 //above is a prefix for activating bot
 
 //false=disable and true=enable
-global.autoRecording = true //auto recording
-global.autoTyping = true //auto typing
-global.autorecordtype = true //auto typing + recording
+global.autoRecording = false //auto recording
+global.autoTyping = false //auto typing
+global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
-global.autobio = true //auto update bio
+global.autobio = false //auto update bio
 global.anti91 = false //auto block +91 
 global.autoswview = true //auto view status/story
 global.antilinkMode = true; // Default: disabled
